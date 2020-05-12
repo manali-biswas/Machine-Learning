@@ -13,3 +13,6 @@
 * Pokemon Classifier
     > This project is to identify the type of a pokemon from its image.
     > The training and testing data sets have been provided.
+* Twitter Sentiment Analysis
+    > This project is to analyse tweets on a specific topic and specify ppositive, neutral and negative percentages
+    > It uses textblob and some NLTK corpora. The tweets are cleaned and segregated on the basis of their polarity.
